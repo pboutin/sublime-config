@@ -1,5 +1,6 @@
 {
 	"always_show_minimap_viewport": true,
+	"bold_folder_labels": true,
 	"caret_style": "phase",
 	"color_scheme": "Packages/User/Colorsublime/themes/FireCode.tmTheme",
 	"fade_fold_buttons": false,
@@ -17,6 +18,5 @@
 	"show_tab_close_buttons": false,
 	"soda_classic_tabs": false,
 	"theme": "Soda Dark 3.sublime-theme",
-	"translate_tabs_to_spaces": true,
-	"bold_folder_labels": true
+	"translate_tabs_to_spaces": true
 }
