@@ -1,6 +1,14 @@
-{
-    "class": "tab_label",
-    "settings": ["highlight_modified_tabs"],
-    "parents": [{"class": "tab_control", "attributes": ["dirty"]}],
-    "fg": [120, 170, 250]
-}
+[
+    {
+        "class": "icon_file_type",
+        "content_margin": [0,0]
+    },
+    {
+        "class": "icon_folder",
+        "content_margin": [0,0]
+    },
+    {
+        "class": "icon_folder_loading",
+        "content_margin": [0,0]
+    }
+]
