@@ -1,0 +1,7 @@
+{
+    "git_merge_flags": ["--no-ff"],
+    "git_extensions": {
+        "git_flow": false,
+        "legit": false
+    }
+}
