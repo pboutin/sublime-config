@@ -10,5 +10,9 @@
     {
         "class": "icon_folder_loading",
         "content_margin": [0,0]
+    },
+    {
+        "class": "icon_folder_dup",
+        "content_margin": [0,0]
     }
 ]
