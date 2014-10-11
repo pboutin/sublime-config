@@ -1,0 +1,10 @@
+{
+    "exclude_folders": [
+        "*vendor*",
+        "node_modules*"
+    ],
+    "exclude_files": [
+        "*.sublime-workspace",
+        "*.sublime-project"
+    ]
+}
