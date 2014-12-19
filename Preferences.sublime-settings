@@ -3,9 +3,10 @@
 	"bold_folder_labels": true,
 	"caret_style": "phase",
 	"color_scheme": "Packages/User/Monokai-Midnight (SL).tmTheme",
+	"detect_indentation": false,
 	"fade_fold_buttons": false,
 	"font_face": "Ubuntu Mono",
-	"font_size": 12,
+	"font_size": 13,
 	"highlight_line": true,
 	"ignored_packages":
 	[
