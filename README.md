@@ -5,7 +5,7 @@ Sublime Text 3 setup
 
 > Source : http://www.sublimetext.com/3
 
-## Inject the repository into the settings
+## Inject the repository in the settings
 
 ```bash
 cd ~/.config/sublime-text-3/Packages
